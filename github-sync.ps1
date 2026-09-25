@@ -34,7 +34,7 @@ while ($true) {
         Write-Host "No changes. Nothing to upload."
     }
 
-    Write-Host "Next check in 2 minutes..."
-    Start-Sleep -Seconds 120
+    Write-Host "Next check in 1 minutes..."
+    Start-Sleep -Seconds 60
 
 }
