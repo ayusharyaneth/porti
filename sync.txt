@@ -1,0 +1,1 @@
+function sync { & "D:\porti\github-sync.ps1" }
